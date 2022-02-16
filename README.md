@@ -1,17 +1,18 @@
 ## About
-Boilerplate for quick check of ideas
 
-Includes
-- react
-- next
-- hapi/boom
-- react-query
-- axios
-- zod
+Recruitment-app
 
 ## Getting Started
 
-First, run the development server:
+First, install packages
+
+```bash
+npm i
+# or
+yarn
+```
+
+Run the development server:
 
 ```bash
 npm run dev
